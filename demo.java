@@ -4,6 +4,7 @@ public static void main(String[]args)
 {
 int a,b,c,d,e;
 
+system.out.println("again changed");
 
 
 System.out.print("sum="+(a+b+c+d+e));
